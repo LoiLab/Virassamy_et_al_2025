@@ -3,12 +3,12 @@ Contributors: Franco Caramia, Peter Savas, Luis Lara, Jianan
 
 Folder Structure:
 
-Sorted Tcells bulk RNASeq Analysis: TC_Bulk_RNASeq
+- Sorted Tcells bulk RNASeq Analysis: TC_Bulk_RNASeq
 
-TCGA samples: TCGA
+- TCGA samples: TCGA
 
-Metabric analysis: METABRIC
+- Metabric analysis: METABRIC
 
-Reed Single Cell analysis: REED
+- Reed Single Cell analysis: REED
 
 
