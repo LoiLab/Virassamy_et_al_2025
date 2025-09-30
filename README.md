@@ -1,5 +1,5 @@
 Code base for publication: Virassamy et al 2025
-Contributors: Franco Caramia, Peter Savas, Luis Lara, Jianan
+Contributors: Franco Caramia, Peter Savas, Luis Lara, Jianan Wang
 
 Folder Structure:
 
@@ -11,4 +11,6 @@ Folder Structure:
 
 - Reed Single Cell analysis: REED
 
+- MyBrCa dataset: MyBrCa_figures
 
+- kConFab samples FACS and survival data: kConFab
