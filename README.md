@@ -1,5 +1,5 @@
 Code base for publication: Virassamy et al 2025
-Contributors: Franco Caramia, Peter Savas, Luis Lara, Jianan Wang
+Contributors: Franco Caramia, Peter Savas, Luis Lara
 
 Folder Structure:
 
