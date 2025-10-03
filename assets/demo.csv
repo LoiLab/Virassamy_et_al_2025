@@ -1,0 +1,10 @@
+Sample.ID,Type,Patient
+BB_001,TRM,BB
+BB_004,Memory_T,BB
+BB_005,Naive_T,BB
+MP_001,TRM,MP
+MP_004,Memory_T,MP
+MP_005,Naive_T,MP
+SS_001,TRM,SS
+SS_004,Memory_T,SS
+SS_005,Naive_T,SS
